@@ -7,3 +7,5 @@
 - IMPLANTACION DE APLICACIONES WEB
 
 [Git Hub](https://github.com/WaaRvEn)
+
+### CONFLICTO ARREGLADO
