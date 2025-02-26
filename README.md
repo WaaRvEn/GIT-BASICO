@@ -9,3 +9,5 @@
 [IES FRANCISCO DE QUEVEDO](https://www.educa2.madrid.org/web/centro.ies.quevedo.madrid)
 
 ![LOGO IES FRANCISCO DE QUEVEDO](./LogoQuevedo.jpg "LOGO IES FRANCISCO DE QUEVEDO" )
+
+CONFLICTO EN OTRO
